@@ -1,0 +1,3 @@
+hThis first text message
+I want to commit this message in 2nd commit.
+Changed by Shiraj N
